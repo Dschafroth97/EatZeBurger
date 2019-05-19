@@ -1,0 +1,52 @@
+html {
+    background-color: #ffc107;
+    font-family: 'Lobster', sans-serif
+}
+
+body {
+    width: 75%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Modak', sans-serif;
+    font-size: 4em;
+    margin: 1rem;
+}
+
+#burgerImg {
+    border-radius: 4rem;
+}
+
+.burgerOpt {
+    margin: .2rem;
+    border-radius: 2rem;
+    width: 100%
+}
+
+.burgerDevoured {
+    background-color: #dc3545;
+    border-radius: 2rem;
+    margin: .5rem;
+    padding: .5rem;
+    width: 100%
+}
+
+h2 {
+    margin: 1rem;
+}
+
+.addBurgerBtn {
+    border-radius: 3rem;
+    margin: 1rem;
+}
+
+#ca {
+    border: none;
+    border-bottom: solid black .03rem;
+}
+
+#ca:hover {
+    border:none;
+    border-bottom: solid green .07rem;
+}
